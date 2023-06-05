@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: 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
-          GIST_ID: https://gist.github.com/Sunwoo020/736deb26bc608baff27e274ed237e1b8.js
+          GIST_ID: gist.github.com/Sunwoo020/736deb26bc608baff27e274ed237e1b8.js
           TIMEZONE: Asia/Seoul
